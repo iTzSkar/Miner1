@@ -1,2 +1,2 @@
-# Miner1
+# Miner
 me
